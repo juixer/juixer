@@ -8,18 +8,10 @@
 
 </div>
 
-## ✉Contact
+## ✉ Contact
 
-<div align="center" style="display: flex; justify-content: space-around; gap:10px">
-
-[![linkedin](/assets/linkedin.png "linkedin")](https://www.linkedin.com/in/ashfakul-islam-a56236183/)
-
-[![facebook](/assets/facebook.png "facebook")](https://www.facebook.com/A.i.Sh4nto)
-
-[![discord](/assets/discord.png "discord")](https://discord.com/users/475554971182432259)
-
-
-</div>
+| [![linkedin](/assets/linkedin.png "linkedin")](https://www.linkedin.com/in/ashfakul-islam-a56236183/) | [![facebook](/assets/facebook.png "facebook")](https://www.facebook.com/A.i.Sh4nto) | [![discord](/assets/discord.png "discord")](https://discord.com/users/475554971182432259) |
+|---|---|---|
 
 ## ⚙Technologies
 
