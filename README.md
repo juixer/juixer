@@ -27,5 +27,5 @@
 ## 📊 GitHub Stats:
 
 
-| [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/juixer/repos?time_range=one_year&theme=dark)](https://githubtrends.io) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juixer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![](https://github-readme-stats.vercel.app/api?username=juixer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+| [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/juixer/repos?time_range=one_year&theme=dark)](https://githubtrends.io)  | ![](https://github-readme-stats.vercel.app/api?username=juixer&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juixer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 |---|---|---|
