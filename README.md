@@ -2,4 +2,10 @@
 
 ## 🚀Current Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=juixer&theme=iceberg)](https://git.io/streak-stats)
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=juixer&theme=gotham&card_width=500)](https://git.io/streak-stats)
+
+</div>
+
