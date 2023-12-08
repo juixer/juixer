@@ -13,6 +13,7 @@
 | [![linkedin](/assets/linkedin.png "linkedin")](https://www.linkedin.com/in/ashfakul-islam-a56236183/) | [![facebook](/assets/facebook.png "facebook")](https://www.facebook.com/A.i.Sh4nto) | [![discord](/assets/discord.png "discord")](https://discord.com/users/475554971182432259) |
 |---|---|---|
 
+
 ## ⚙Technologies
 
 <div align="center">
@@ -22,3 +23,8 @@
 [![My Skills](https://skillicons.dev/icons?i=firebase,tailwind,nodejs,expressjs,mongodb)](https://skillicons.dev)
 
 </div>
+
+## 💹 Trends
+
+| [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/juixer/repos?time_range=one_year&theme=dark)](https://githubtrends.io) | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/juixer/langs?time_range=one_year&theme=dark)](https://githubtrends.io) |
+|---|---|
