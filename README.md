@@ -24,7 +24,8 @@
 
 </div>
 
-## 💹 Trends
+## 📊 GitHub Stats:
 
-| [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/juixer/repos?time_range=one_year&theme=dark)](https://githubtrends.io) | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/juixer/langs?time_range=one_year&theme=dark)](https://githubtrends.io) |
-|---|---|
+
+| [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/juixer/repos?time_range=one_year&theme=dark)](https://githubtrends.io) | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/juixer/langs?time_range=one_year&theme=dark)](https://githubtrends.io) | ![](https://github-readme-stats.vercel.app/api?username=juixer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+|---|---|---|
