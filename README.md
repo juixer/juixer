@@ -3,13 +3,13 @@
 ## 👱‍♂️Overview
 <p>
 👋Greetings! I am Ashfakul Islam (Shanto).
-<br/>
+<br/><br/>
 💻I am a MERN Stack Developer with proficiency in MongoDB, Express.js, React.js, and Node.js.
-<br/>
+<br/><br/>
 🛠Over the last six months, I have dedicated myself to an in-depth exploration of web development to master key technologies.
-<br/>
+<br/><br/>
 👀Currently, I am actively seeking job opportunities.
-<br/>
+<br/><br/>
 🌟I am enthusiastic about discovering new opportunities and excited to collaborate on creating something meaningful. Let's explore possibilities together!
 </p>
 
