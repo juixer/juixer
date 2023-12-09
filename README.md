@@ -2,7 +2,15 @@
 
 ## 👱‍♂️About Me
 <p>
-Hello there! I'm Ashfakul Islam (Shanto), an enthusiastic MERN Stack Developer. In the last six months, I've searching deep into web development for mastering MongoDB, Express.js, React.js, and Node.js. Excited about crafting robust and creative web applications!
+👋Greetings! I am Ashfakul Islam (Shanto).
+<br/>
+💻I am a MERN Stack Developer with proficiency in MongoDB, Express.js, React.js, and Node.js.
+<br/>
+🛠Over the last six months, I have dedicated myself to an in-depth exploration of web development to master key technologies.
+<br/>
+👀Currently, I am actively seeking job opportunities.
+<br/>
+🌟I am enthusiastic about discovering new opportunities and excited to collaborate on creating something meaningful. Let's explore possibilities together!
 </p>
 
 ## ✉ Contact With Me
@@ -40,7 +48,6 @@ Hello there! I'm Ashfakul Islam (Shanto), an enthusiastic MERN Stack Developer. 
 ### Forever Union 💍
  
  - Description: Explore our matrimonial platform for finding life partners. Share biodata, purchase contact details, and celebrate success stories securely.
- <br/>
 
 - Live
     
@@ -72,7 +79,6 @@ Hello there! I'm Ashfakul Islam (Shanto), an enthusiastic MERN Stack Developer. 
  - Description: Empower community kindness with Plate Pals! Donate or request food effortlessly, creating a ripple of positive change. Together, let's combat hunger and foster generosity.
 
 
- <br/>
 
 - Live
     
@@ -103,7 +109,6 @@ Hello there! I'm Ashfakul Islam (Shanto), an enthusiastic MERN Stack Developer. 
  - Description: In this site you can add products to the database, categorizing them as needed. Additionally, you can add or remove products from your cart.
 
 
- <br/>
 
 - Live
     
