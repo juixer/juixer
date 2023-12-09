@@ -1,5 +1,11 @@
 [![Cover](/assets/cover.gif "Cover")](https://my-hub-513c3.web.app/)
 
+## 👱‍♂️About Me
+<p>
+Hello there! I'm Ashfakul Islam (Shanto), an enthusiastic MERN Stack Developer. In the last six months, I've searching deep into web development for mastering MongoDB, Express.js, React.js, and Node.js. Excited about crafting robust and creative web applications!
+</p>
+
+
 ## 🚀Current Stats
 
 <div align="center">
@@ -8,7 +14,7 @@
 |---|---|
 </div>
 
-## ✉ Contact
+## ✉ Contact With Me
 
 | [![linkedin](/assets/linkedin.png "linkedin")](https://www.linkedin.com/in/ashfakul-islam-a56236183/) | [![facebook](/assets/facebook.png "facebook")](https://www.facebook.com/A.i.Sh4nto) | [![discord](/assets/discord.png "discord")](https://discord.com/users/475554971182432259) |
 |---|---|---|
