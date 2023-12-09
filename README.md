@@ -1,7 +1,7 @@
 [![Cover](/assets/cover.gif "Cover")](https://my-hub-513c3.web.app/)
 
 ## 👱‍♂️About Me
-<p>
+<p style="font-size: 20px">
 Hello there! I'm Ashfakul Islam (Shanto), an enthusiastic MERN Stack Developer. In the last six months, I've searching deep into web development for mastering MongoDB, Express.js, React.js, and Node.js. Excited about crafting robust and creative web applications!
 </p>
 
