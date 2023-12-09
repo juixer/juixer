@@ -25,10 +25,10 @@ Hello there! I'm Ashfakul Islam (Shanto), an enthusiastic MERN Stack Developer. 
 
 <div align="center">
 
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=juixer&theme=gotham&card_width=500)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juixer&theme=2077)| 
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=juixer&theme=gotham&card_width=500)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juixer&theme=github_dark)| 
 |---|---|
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juixer&theme=2077)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juixer&theme=github_dark)
 
  
 
