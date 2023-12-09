@@ -1,6 +1,6 @@
 [![Cover](/assets/cover.gif "Cover")](https://my-hub-513c3.web.app/)
 
-## 👱‍♂️About Me
+## 👱‍♂️Overview
 <p>
 👋Greetings! I am Ashfakul Islam (Shanto).
 <br/>
@@ -49,19 +49,7 @@
  
  - Description: Explore our matrimonial platform for finding life partners. Share biodata, purchase contact details, and celebrate success stories securely.
 
-- Live
-    
-      https://forever-union.web.app/
-
-
-- Client GitHub:
-    
-      https://github.com/juixer/Forever-Union-Client-Side
-
-
-- Server GitHub:
-    
-      https://github.com/juixer/Forever-Union-Server-Side
+ - [Live](https://forever-union.web.app/) | [Client GitHub](https://github.com/juixer/Forever-Union-Client-Side) | [Server GitHub](https://github.com/juixer/Forever-Union-Server-Side)
 
 
 - Technology Used:
@@ -78,21 +66,7 @@
  
  - Description: Empower community kindness with Plate Pals! Donate or request food effortlessly, creating a ripple of positive change. Together, let's combat hunger and foster generosity.
 
-
-
-- Live
-    
-      https://plate-pals-e55ac.web.app/
-
-- Client GitHub:
-    
-      https://github.com/juixer/Plate-Pals-Client-Side
-
-
-- Server GitHub:
-    
-      https://github.com/juixer/Plate-Pals-Server-Side
-
+ - [Live](https://plate-pals-e55ac.web.app/) | [Client GitHub](https://github.com/juixer/Plate-Pals-Client-Side) | [Server GitHub](https://github.com/juixer/Plate-Pals-Server-Side)
 
 - Technology Used:
 
@@ -108,21 +82,7 @@
  
  - Description: In this site you can add products to the database, categorizing them as needed. Additionally, you can add or remove products from your cart.
 
-
-
-- Live
-    
-      https://tech-buddy-7d305.web.app/
-
-- Client GitHub:
-    
-      https://github.com/juixer/Brand-Shop-Client-Side
-
-
-- Server GitHub:
-    
-      https://github.com/juixer/Brand-Shop-Server-Side
-
+ - [Live](https://tech-buddy-7d305.web.app/) | [Client GitHub](https://github.com/juixer/Brand-Shop-Client-Side) | [Server GitHub](https://github.com/juixer/Brand-Shop-Server-Side)
 
 - Technology Used:
 
