@@ -47,7 +47,7 @@
 
 ### Forever Union 💍
  
- - Description: Explore our matrimonial platform for finding life partners. Share biodata, purchase contact details, and celebrate success stories securely.
+ - Description: Explore my matrimonial platform for finding life partners. Share biodata, purchase contact details, and celebrate success stories securely.
 
  - [Live](https://forever-union.web.app/) | [Client GitHub](https://github.com/juixer/Forever-Union-Client-Side) | [Server GitHub](https://github.com/juixer/Forever-Union-Server-Side)
 
