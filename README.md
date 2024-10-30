@@ -2,7 +2,7 @@
 
 ## 👱‍♂️Overview
 
-<p> 👋 Greetings! I am Ashfakul Islam (Shanto). <br/><br/> 💻 I am a MERN Stack Developer with expertise in building full-stack web applications. I specialize in React, Redux, and Next.js for dynamic front-end development, alongside MongoDB, Express.js, and Node.js for robust back-end solutions. <br/><br/> 🛠 Over the last six months, I have immersed myself in web development, mastering key technologies such as Mongoose for database management and Tailwind CSS for responsive design. I strive to deliver efficient and scalable applications. <br/><br/> 👀 Currently, I am actively seeking job opportunities and am enthusiastic about discovering new avenues for collaboration. Let’s explore possibilities together to create something meaningful! </p>
+<p> 👋 Greetings! I am Ashfakul Islam (Shanto). <br/><br/> 💻 I am a MERN Stack Developer with expertise in building full-stack web applications. I specialize in React, Redux, and Next.js for dynamic front-end development, alongside MongoDB, Express.js, and Node.js for robust back-end solutions. <br/><br/> 🛠 I have immersed myself in web development, mastering key technologies such as Mongoose for database management and Tailwind CSS for responsive design. I strive to deliver efficient and scalable applications. <br/><br/> 👀 Currently, I am actively seeking job opportunities and am enthusiastic about discovering new avenues for collaboration. Let’s explore possibilities together to create something meaningful! </p>
 
 ## ✉ Contact With Me
 
