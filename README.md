@@ -13,11 +13,9 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,typescript)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,tailwind,nodejs,expressjs,mongodb,mongoose)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=typescript,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,firebase,tailwind,nodejs,expressjs,mongodb,mongoose)](https://skillicons.dev)
 
 </div>
 
